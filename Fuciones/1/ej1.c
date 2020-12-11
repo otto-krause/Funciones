@@ -7,7 +7,7 @@ void NumerosEnPantalla ();
      NumerosEnPantalla(N1,N2);
      return 0;
  }
- void NumerosEnPantalla(int Num1,int Num2)
+ void NumerosEnPantalla(int Num1,int Num2)//No tiene sentido pasar dos variables son valor asignado.
  {
 
      printf ("Ingresar un numero\n");

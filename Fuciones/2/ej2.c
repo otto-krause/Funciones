@@ -4,7 +4,7 @@ void PerimetroYarea ();
  int main ()
  {
      int N1,N2;
-     PerimetroYarea(N1,N2);
+     PerimetroYarea(N1,N2);//Idem ejercicio anterior.
      return 0;
  }
  void PerimetroYarea(int Num1,int Num2)

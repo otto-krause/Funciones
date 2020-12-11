@@ -7,7 +7,7 @@ void Porcentaje ();
      Porcentaje(N1,N2);
      return 0;
  }
- void Porcentaje(int Num1,int Num2)
+ void Porcentaje(int Num1,int Num2)//No tiene sentido utilizar como parametros dos variables que no tienen valor.
  {
      float pf=0;
 

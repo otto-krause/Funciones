@@ -4,7 +4,7 @@ void FuerzaYsuperficie (float N1,float N2);
  int main ()
  {
      float N1,N2;
-     FuerzaYsuperficie( N1, N2);
+     FuerzaYsuperficie( N1, N2);//idem ejercicio anterior.
      return 0;
  }
  void FuerzaYsuperficie (float Num1,float Num2)
